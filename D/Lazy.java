@@ -13,7 +13,7 @@ import java.util.logging.Logger;
  * before being interrupted, it says “I am ready, the early bird catches the
  * worm!”.
  *
- * @author yournamehere
+ * @author Pedro Navarro, Manuel Quintanilla, Cristina Olmedilla Group C
  *
  */
 public class Lazy extends Thread{

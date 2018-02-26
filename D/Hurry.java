@@ -12,7 +12,7 @@ import java.util.logging.Logger;
  * finishes before the 5 seconds deadline, Hurry says “At last, a turtle runs
  * rings round you!”.
  *
- * @author yournamehere
+ * @author Pedro Navarro, Manuel Quintanilla, Cristina Olmedilla Group C
  *
  */
 
